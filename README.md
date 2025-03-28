@@ -1,10 +1,7 @@
 # 🧮 Big Integer Arithmetic Using Doubly Linked Lists in C
 
 ### 👤 Author: Mariam Turk  
-**Student ID:** 1211115  
-**Section:** 1  
 
----
 
 ## 📚 Overview
 
